@@ -1,1 +1,1 @@
-docker build -t gatsby:latest .
+docker build -t gatsby:local .
