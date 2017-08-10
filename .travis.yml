@@ -3,9 +3,19 @@ node_js: 6.11.0
 cache: yarn
 sudo: required
 services:
-  - docker
+- docker
 install:
-  - npm install -g gatsby-cli
-  - yarn install
+- npm install -g gatsby-cli
+- yarn install
 script:
-  - gatsby build
+- gatsby build
+deploy:
+  provider: s3
+  access_key_id: AKIAJWBCUF2MOX7EQU2Q
+  secret_access_key:
+    secure: W0uVd7/JDvTZz48kC2I1rUYFUEMkF+TAEMi66cnKWWx3DNvrdYto9iUxA8/J9bkSVF0YTDegd7ExLLLIsCTEQAM06txWl9Zkjg4dZn0c6CqDZWEaV6282FvCXaFCNrJkI04xm0hFpKQejjqF8T73B7nxo8q/AyUhR+BNSv7Us4Gee1w+E8SkCAtx7WmUNQGSA5hKfVILpdJz5RX3dHXTAYeyKlqB7unXldW+dD/dFE1HRp1UOXXkX8y8GA7nqhOUlsmQ5/v51EIIXU1x6ZWut3D60gSmu1FgFkR/EVV7Q+r5qk16SBQV/qZaD6BAigBApJkKQ+Mu4+UX0wrFevWpgw367R4lxExG07UXjH5qmof7+adYZWKMWWuornJDz472FmlhaTks4WOJsInyjWvZH7duNJvsVmWOJmB8jSQZnw8OdyKIxGFKdoc4tMbHDvRVvew8C0CyMKEM+mkPAq1NC9759HOCtCfzNnAIu4ES6hrgDGw7tpOJysUcBjliW4o0ldVJVLbIPJh/Yt01IyF7yj3PU5WtRv4nP5204Al0USIGsOZdulA0scRaNVVXHyF1LngLQdEwMSWN4fQTQs7jTPugDct3RTQjLiMTQvCqfK3V7B/UjL93889rpD+GlEefATb+bu05MkQJxHM/KK5TSHraJQYIPPpX1Q7Nv/aq7D4=
+  bucket: coffee.asifrc.com
+  region: us-east-2
+  acl: public_read
+  skip_cleanup: true
+  local_dir: public
