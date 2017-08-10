@@ -24,7 +24,7 @@ ACM, to which I point from Route53 for the url https://coffee.asifrc.com, which
 is probably how you got here.
 
 Speaking of You, I arrive at the usual second-person existential crisis of
-trying to determine who You are, and why You are here. As I right this, You is
+trying to determine who You are, and why You are here. As I write this, You is
 just intended to be me, and the why is so that we may later look back on my
 journey from coffee ignorance, through a nerdy passionate pursuit, to eventually
 thinking I know enough about coffee to be bored and look for something else to
