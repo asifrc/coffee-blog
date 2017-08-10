@@ -7,5 +7,7 @@ services:
 install:
   - npm install -g gatsby-cli
 script:
+  - gatsby build
+  - docker run -v $(pwd):/app asifrc/gatsbyjs-dev:latest ls -la
   - docker run -v $(pwd):/app asifrc/gatsbyjs-dev:latest gatsby build
   - ls -la
