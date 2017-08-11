@@ -5,8 +5,8 @@ path: "/multiple-origins/"
 ---
 
 Is this post about me? The coffee I prefer? X-Men? All of the above? Who
-knows, but the initial intent is to trace the origins that seeded my
-recent acceleration in coffee interest.
+knows what this will end up becoming,, but the initial intent is to
+trace the origins that seeded my recent acceleration in coffee interest.
 
 This is a long one, so grab a coffee, and try to create as much imagery
 as you can in your mind about how I decided to start fighting crime. By
@@ -17,6 +17,8 @@ drinking coffee..
 Tea, Bengali culture, Assam.
 Ideas of the role of that "tea or coffee" plays socially and culturally.
 
+Photo of Tea Garden
+
 
 ### Rapid City, South Dakota
 #### Dawaats
@@ -26,7 +28,6 @@ Coffee or Tea for guests.
 "Cha banai thebo?" around middle school and high school when I had a lot
 of homework. An act of caring, with undertones of "finish your homework
 by any means necessary"
-
 
 #### Allergy Season
 Benadryl, Instant Coffee, Waffles
@@ -55,16 +56,26 @@ Social Ubiquity, friendly, date, work
 Strawberry Shortcake Tea
 
 ### Pleasant Prairie, Wisconsin
-Bialetti Moka, Woodmans Cherry, Daily Ritual. Meetings and Productivity
+Bialetti Moka, Woodmans Cherry, Daily Ritual. Hot Milk with Whisk.
+Culinary study, therapeutic bearnaise, scientific and
+understanding-oriented approach
+Meetings about startups and Productivity
+
+Maybe photo of bialetti
 
 ### Chicago
 
-####Day Trips
+#### Day Trips
 Coding, emergence and awareness of Silcon Valley hoodie-wearing code
 ninjas.
 
+#### "Real" Macchiatto
+First learned what a real machiatto was from Rom in Prudential Plaza.
+Loyalty card filled and actually got free drinks. Home made biscuits.
+
 ### NYC, New York
 Getting through the work day. Cocaine comparison.
+Corporate. Ibanking blogs, GS + Starbucks. Douche bags.
 Self-proclaimed coffee snob rolling on, itch in my mind that "Hey, I'm
 one too!"
 
@@ -78,7 +89,7 @@ A coffee break from the mundane
 Tim Tam Slam
 
 ### Pune, India
-Cafe 108, Australians, Flat Whites, Ritual
+Cafe 108, Australians, Flat Whites, Ritual, Croque Madame
 
 ### Melbourne, Australia
 Flat Whites. "Coffee" as everything espresso. Coffee competence. First
