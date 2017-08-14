@@ -4,9 +4,10 @@ date: "2017-08-10T18:40:15-05:00"
 path: "/multiple-origins/"
 ---
 
-Is this post about me? The coffee I prefer? X-Men? All of the above? Who
-knows what this will end up becoming, but the initial intent is to trace
-the origins that seeded my recent acceleration in coffee interest.
+Is this post about me? The coffee blends I prefer? X-Men? All of the
+above? Who knows what this will end up becoming, but the initial intent
+is to trace the origins that seeded my recent acceleration in coffee
+interest.
 
 This is a long one, so grab a coffee, and try to create as much imagery
 as you can in your mind as you read about my dark descent into light
