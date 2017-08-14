@@ -5,20 +5,42 @@ path: "/multiple-origins/"
 ---
 
 Is this post about me? The coffee I prefer? X-Men? All of the above? Who
-knows what this will end up becoming,, but the initial intent is to
-trace the origins that seeded my recent acceleration in coffee interest.
+knows what this will end up becoming, but the initial intent is to trace
+the origins that seeded my recent acceleration in coffee interest.
 
 This is a long one, so grab a coffee, and try to create as much imagery
-as you can in your mind about how I decided to start fighting crime. By
-drinking coffee..
+as you can in your mind as you read about my dark descent into light
+raosts.
 
 ### Assam, India
 #### Tea Gardens
-Tea, Bengali culture, Assam.
-Ideas of the role of that "tea or coffee" plays socially and culturally.
+Not my birthlace nor my parents', the tea gardens of Assam was the
+origin from which my paternal grandparents grew up acquiring  the
+cultural and social norms around tea that became a centerpiece in the
+culture of hopsitality and entertaining guests at 68 Elephant Road.
 
-Photo of Tea Garden
+_Photo of Tea Garden_
 
+### Dhaka, Bangladesh
+#### 68 Elephant Road
+I first visited Bangladesh when I was four, and have returned every
+couple years since. Each morning, noon, afternoon, and evening, as I
+played with my ambulance and firetruck, completed jigsaw puzzles, or
+played computer games, I absorbed from the background the daily rituals
+of watching the news, reading the newspaper, or just meditating in
+silence in the mornings over a cup of tea, revitalizing for the
+remainder of the day using a cup of strong tea after lunch, relaxing and
+watching soaps on the tv over a cup of tea, catching up with eachother's
+day at the dining table over tea. A key memory of 68 Elephant Road is
+all the guests that would visit throughout the day, and every single
+time with rare excpetion, a cart with "cha nasta", or tea and snack,
+would be brought out for the guests, and each would be interrogated as
+to how much sugar and milk they wanted.
+
+While not at the same levels of caffeine and with not nearly as much
+traffic, these notions of the role tea plays in meditation, utility, and
+hospitatily made their way into the US through my parents and into our
+household.
 
 ### Rapid City, South Dakota
 #### Dawaats
