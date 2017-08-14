@@ -99,8 +99,17 @@ exposure to consistently competent coffee.
 Ritual, Origins of Flat Whites. First time looking into origins of
 coffee drink, espresso, etc.
 
+### Lansing, Michigan
+Bigby Coffee: temperature
+
 ### Dallas, Texas
 Coffee Runs. Escape. Comiseration. Starbucks App. "Intern"
+
+### Bangkok, Thailand
+Ristretto Hotel Coffee
+
+### London, England
+Ristretto with Cascara
 
 ### A Birthday Gift
 
