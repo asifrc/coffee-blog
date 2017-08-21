@@ -11,7 +11,7 @@ interest.
 
 This is a long one, so grab a coffee, and try to create as much imagery
 as you can in your mind as you read about my dark descent into light
-raosts.
+roasts.
 
 ### Assam, India
 #### Tea Gardens
@@ -45,7 +45,29 @@ household.
 
 ### Rapid City, South Dakota
 #### Dawaats
-Coffee or Tea for guests.
+The majority of my upbringing was in Rapid City, South Dakota.
+"Dawaats", where the Bengali or broader Muslim community get together,
+were an integral part of growing up in a mulitcultural environment.
+There's a lot to delve into there, but the part that's relevant to the
+topic at hand  is the offering of, without exception, tea or coffee at
+every dawaat.  At larger community get-togethers in public spaces,
+someone would always be responsible for making sure that either tea or
+hot water was available for tea or coffee.  At Saudi homes, mint tea and
+a particular coffee (pistachio or cardamom?) would be served. When at
+our home, we offered Lipton Yellow Label tea with milk and sugar, and
+Folger's instant coffee. I learned throughout all this that a hot
+caffeinated beverage was a cultural expectation whenever at someone's
+home, almost as much a usable bathroom: the absence of either upon
+request would be somewhat awkward.
+
+It was often my role growing up to go around asking the aunties and
+uncles if they want tea or coffee, along with how much milk and sugar.
+When younger, I used to pass on the orders to one of my parents, but as
+I got older, I started making the tea and coffee, always paranoid that I
+wasn't putting the right amount of milk or whether the tea back had been
+steeped the right amount of time. Over time I got a feel for what the
+"right" color was for black tea for varying strength, and what the
+"right" color to attain the proper amount of milk.
 
 #### By any means necessary
 "Cha banai thebo?" around middle school and high school when I had a lot
