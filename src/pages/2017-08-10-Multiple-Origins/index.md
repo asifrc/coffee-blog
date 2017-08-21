@@ -69,10 +69,20 @@ steeped the right amount of time. Over time I got a feel for what the
 "right" color was for black tea for varying strength, and what the
 "right" color to attain the proper amount of milk.
 
-#### By any means necessary
-"Cha banai thebo?" around middle school and high school when I had a lot
-of homework. An act of caring, with undertones of "finish your homework
-by any means necessary"
+#### A Peace Offering
+I first started consistently having real homework in middle school.
+This coincided with when I first started getting in trouble for not
+doing my homework. Almost every night, my mother would ask me "homework
+korso?" and "namaj porso?", which mean "Did you do your homework?" and
+"Did you pray?" respectively. My usual response, as I watched TV, played
+video games, or wrote code,  was that I'd do it later. Every once in a
+while,  my mother would find me or my sister actually working on
+homework relatively late.  As a peace offering, she would ask "Cha banai
+debo?", which means "Should I make tea?". With this came both the idea
+of making a hot beverage for someone as an act of caring, and also the
+role of caffeine as a utility.  Though definitely coming from a place of
+love and caring, one might say that there may have been a subtle (or
+not-so-subtle) undertone of "by any means necessary" behind the gesture.
 
 #### Allergy Season
 Benadryl, Instant Coffee, Waffles
